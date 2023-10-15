@@ -1,2 +1,3 @@
 # git_repo
-This is my first repository.
+This is my first Git Repository.
+Author-Vijay Lakshmi
